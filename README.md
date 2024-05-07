@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br/>
-author:divyanshu dhasmana
+author:divyanshu dhasmana(student)
